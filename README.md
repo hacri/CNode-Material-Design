@@ -14,7 +14,7 @@
 
 [![Google Play Store](/art/git_it_on_google_play.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)
 
-[CNodeMD-v1.0.4-build-14](http://takwolf.com/download/CNodeMD-v1.0.4-build-14.apk)
+[CNodeMD-v1.0.7](http://takwolf.com/download/CNodeMD-v1.0.7.apk)
 
 [Google Play](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)
 
@@ -22,35 +22,29 @@
 
 [360手机助手](http://zhushou.360.cn/detail/index/soft_id/3060683)
 
+[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=org.cnodejs.android.md)
+
+[魅族Flyme应用中心](http://app.flyme.cn/apps/public/detail?package_name=org.cnodejs.android.md)
+
 [豌豆荚](http://www.wandoujia.com/apps/org.cnodejs.android.md)
+
+[安智市场](http://www.anzhi.com/soft_2315984.html)
 
 ## Screenshot ##
 
-![](/art/screenshot_01.png)
+![](/art/screenshot_01_s.png) ![](/art/screenshot_02_s.png)
 
-![](/art/screenshot_02.png)
+![](/art/screenshot_03_s.png) ![](/art/screenshot_04_s.png)
 
-![](/art/screenshot_03.png)
+![](/art/screenshot_05_s.png) ![](/art/screenshot_06_s.png)
 
-![](/art/screenshot_04.png)
+![](/art/screenshot_07_s.png) ![](/art/screenshot_08_s.png)
 
-![](/art/screenshot_05.png)
+![](/art/screenshot_09_s.png) ![](/art/screenshot_10_s.png)
 
-![](/art/screenshot_06.png)
+![](/art/screenshot_11_s.png) ![](/art/screenshot_12_s.png)
 
-![](/art/screenshot_07.png)
-
-![](/art/screenshot_08.png)
-
-![](/art/screenshot_09.png)
-
-![](/art/screenshot_10.png)
-
-![](/art/screenshot_11.png)
-
-![](/art/screenshot_12.png)
-
-![](/art/screenshot_13.png)
+![](/art/screenshot_13_s.png)
 
 ## Libraries used ##
 
